@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "SOC Multitool",
     "version": "1.0",
-    "description": "My SOC Multitool, used this project to keep my mind off of hunger during no-lunch Wednesdays.",
+    "description": "My SOC Multitool!",
 	"background": {
         "service_worker": "eventPage.js"
     },
