@@ -1,7 +1,6 @@
 # SOC Multi-tool
 
-A free and open source tool to aid in investigations! 
-Please contribute if you find better resources!
+A free and open source tool to aid in investigations!
 
 
 <img src="https://imgur.com/bPMNikH.png" alt="alt text" width="250px">
@@ -34,16 +33,16 @@ After seeing what the current options available online, I made a completely mode
 
 ## How to install the extension?
 
-To start off, download the ZIP and extract the folder to somewhere on your desktop. 
-    Turn on developer mode in your browser's extensions settings. 
-    Click on "Load unpacked" in your browser's extensions settings and select the folder you extracted.
-    Enable the extension and you are done!
+To start off, download the ZIP and extract the folder to somewhere on your desktop.\
+    Turn on developer mode in your browser's extensions settings.\
+    Click on "Load unpacked" in your browser's extensions settings and select the folder you extracted.\
+    Enable the extension and you are done!\
 
 
 ## How to use?
 
-Simply highlight any text you would like to investigate, and right click. 
-    SOC Multi-tool will not show in your context menu unless text is highlighted.
-    Navigate in the SOC Multi-tool to the type of data highlighted and click your selection.
-    New tabs will open with investigations of your selected data.
+Simply highlight any text you would like to investigate, and right click.\ 
+    SOC Multi-tool will not show in your context menu unless text is highlighted.\
+    Navigate in the SOC Multi-tool to the type of data highlighted and click your selection.\
+    New tabs will open with investigations of your selected data.\
 
