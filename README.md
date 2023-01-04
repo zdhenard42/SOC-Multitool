@@ -3,7 +3,7 @@
 A free and open source tool to aid in investigations!
 
 
-<img src="https://imgur.com/a/9hqHI40" alt="alt text" width="250px">
+<img src="https://imgur.com/bPMNikH" alt="alt text" width="250px">
 
 ## What is SOC Multi-tool?
 
@@ -29,7 +29,7 @@ After seeing what the current options available online, I made a completely mode
 - Lookup Microsoft Error codes using Microsoft's DB
 - Lookup Event ID's (Windows, Sharepoint, SQL Server, Exchange, and Sysmon) using ultimatewindowssecurity.com
 
-<img src="https://imgur.com/a/yipJgZ1" alt="alt text" width="250px">
+<img src="https://i.imgur.com/yMj9p4v.gif" alt="alt text" width="250px">
 
 ## How to install the extension?
 
