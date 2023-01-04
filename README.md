@@ -8,7 +8,9 @@ Please contribute if you find better resources!
 
 ## What is SOC Multi-tool?
 
-Ever get tired of constant copying and pasting when investigating cases within the SOC? SOC Multi-tool takes care of that! It will investigate whatever text is highlighted using a number of different resources.
+Ever get tired of constant copying and pasting when investigating cases within the SOC?  
+SOC Multi-tool takes care of that!   
+It will investigate whatever text is highlighted using a number of different resources.
 
 ## What are the features?
 
