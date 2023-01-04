@@ -32,7 +32,7 @@ After seeing the current options available online, I made a completely modernize
 - Lookup Microsoft Error codes using Microsoft's DB
 - Lookup Event ID's (Windows, Sharepoint, SQL Server, Exchange, and Sysmon) using ultimatewindowssecurity.com
 
-<img src="https://i.imgur.com/yMj9p4v.gif" alt="alt text" width="950px" height="500px">
+<img src="https://i.imgur.com/yMj9p4v.gif" alt="alt text" width="auto" height="auto">
 
 ## How to install the extension?
 
