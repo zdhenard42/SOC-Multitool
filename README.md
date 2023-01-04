@@ -1,6 +1,6 @@
 # SOC Multi-tool
 
-A free and open source tool to aid in investigations!
+A free and open source tool to aid in investigations!  
 Please contribute if you find better resources!
 
 
