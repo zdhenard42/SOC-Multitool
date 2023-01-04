@@ -4,7 +4,7 @@ A free and open source tool to aid in investigations!
 Please contribute if you find better resources!
 
 
-<img src="https://imgur.com/bPMNikH.png" alt="alt text" width="250px">
+<img src="https://imgur.com/bPMNikH.png" alt="alt text" width="auto">
 
 ## What is SOC Multi-tool?
 
