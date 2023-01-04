@@ -29,7 +29,7 @@ After seeing what the current options available online, I made a completely mode
 - Lookup Microsoft Error codes using Microsoft's DB
 - Lookup Event ID's (Windows, Sharepoint, SQL Server, Exchange, and Sysmon) using ultimatewindowssecurity.com
 
-<img src="https://i.imgur.com/yMj9p4v.gif" alt="alt text" width="500px" height="500px">
+<img src="https://i.imgur.com/yMj9p4v.gif" alt="alt text" width="950px" height="500px">
 
 ## How to install the extension?
 
