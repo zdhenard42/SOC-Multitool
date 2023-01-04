@@ -239,6 +239,4 @@ chrome.contextMenus.onClicked.addListener(function(contextClick) {
 			Searches Error code using Microsoft Online Error DB
 		Event ID info:
 			Searches Windows, Sharepoint, SQL Server, Exchange, and Sysmon Event ID's using https://www.ultimatewindowssecurity.com
-			
-		User needs to ctrl + Right Click when extension used in KQL Logs!!!
 	*/
