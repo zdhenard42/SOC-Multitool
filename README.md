@@ -12,7 +12,7 @@ Ever get tired of constant copying and pasting when investigating cases within t
 
 ## What are the features?
 
-After seeing what the current options available online, I made a completely modernized multi-tool starting from the ground up!
+After seeing the current options available online, I made a completely modernized multi-tool starting from the ground up!  
     The current capabilities of the tool are:
 
 - Lookup IP Reputation using VirusTotal & AbuseIPDB.
