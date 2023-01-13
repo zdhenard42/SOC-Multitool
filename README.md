@@ -31,6 +31,6 @@ The SOC Multi-tool is a modernized multi-tool built from the ground up, with a r
 
 ## Easy to install
 
-You can easily install the extension by downloading the release from the [releases page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the folder, and you're done!
+You can easily install the extension by downloading the release from the [releases page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the extracted folder!
 
 SOC Multi-tool is a community-driven project and the developer encourages users to contribute and share better resources.
