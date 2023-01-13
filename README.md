@@ -1,14 +1,14 @@
 # SOC Multi-tool
 
-Introducing SOC Multi-tool, a free and open-source browser extension that makes investigations faster and more efficient. Now available on the Chrome Web Store and compatible with all Chromium-based browsers such as Microsoft Edge, Chrome, Brave, and Opera.    
+Introducing SOC Multi-tool, a free and open-source browser extension that makes investigations faster and more efficient. Now available on the Chrome Web Store and compatible with all Chromium-based browsers such as Microsoft Edge, Chrome, Brave, and Opera.   
+[#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)
 
 
 <img src="https://imgur.com/bPMNikH.png" alt="SOC Multi-tool screenshot" width="auto">
 
 ## Streamline your investigations
 
-SOC Multi-tool eliminates the need for constant copying and pasting during investigations. Simply highlight the text you want to investigate, right-click, and navigate to the type of data highlighted. The extension will then open new tabs with the results of your investigation.
-[#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)
+SOC Multi-tool eliminates the need for constant copying and pasting during investigations. Simply highlight the text you want to investigate, right-click, and navigate to the type of data highlighted. The extension will then open new tabs with the results of your investigation.  
 
 ## Modern and feature-rich
 
