@@ -1,13 +1,14 @@
 # SOC Multi-tool
 
 Introducing SOC Multi-tool, a free and open-source browser extension that makes investigations faster and more efficient. Now available on the Chrome Web Store and compatible with all Chromium-based browsers such as Microsoft Edge, Chrome, Brave, and Opera.    
-[Download SOC Multi-tool on Chrome Web Store](https://chrome.google.com/webstore/detail/soc-multitool/diagjgnagmnjdfnfcciocmjcllacgkab)  
+
 
 <img src="https://imgur.com/bPMNikH.png" alt="SOC Multi-tool screenshot" width="auto">
 
 ## Streamline your investigations
 
 SOC Multi-tool eliminates the need for constant copying and pasting during investigations. Simply highlight the text you want to investigate, right-click, and navigate to the type of data highlighted. The extension will then open new tabs with the results of your investigation.
+[#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)
 
 ## Modern and feature-rich
 
@@ -30,7 +31,6 @@ The SOC Multi-tool is a modernized multi-tool built from the ground up, with a r
 
 ## Easy to install
 
-You can easily install the extension from [the Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multitool/diagjgnagmnjdfnfcciocmjcllacgkab).  
-If you wish to modify the code, you can simply download the release from our [Github page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the folder, and you're done!
+You can easily install the extension by downloading the release from the [releases page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the folder, and you're done!
 
 SOC Multi-tool is a community-driven project and the developer encourages users to contribute and share better resources.
