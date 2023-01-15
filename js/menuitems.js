@@ -97,6 +97,12 @@ const menuItems = [
         id: "Event Info",
         title: "Event ID Info",
         contexts: ['selection']
+    },
+    {
+        parentId: "Info",
+        id: "IBMXForceExchange",
+        title: "IBM X-Force Exchange Lookup",
+        contexts: ['selection']
     }
     ];
 

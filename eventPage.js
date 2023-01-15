@@ -42,6 +42,12 @@ chrome.contextMenus.onClicked.addListener((contextClick) => {
                     chrome.tabs.create({url: encoded});
                 });
                 break;
+            case "IBMXForceExchange":
+                urlsForMenuItem.forEach((url) => {
+                    let encoded = url + fixedEncodeURI(contextClick.selectionText);
+                    chrome.tabs.create({url: encoded});
+                });
+                break;
             default:
                 urlsForMenuItem.forEach((url) => {
                     let encoded = url + fixedEncodeURI(contextClick.selectionText);

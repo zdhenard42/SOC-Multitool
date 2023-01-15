@@ -11,7 +11,8 @@ const urls = {
     "MAC Info": ["https://maclookup.app/search/result?mac="],
     "UA Info": ["https://user-agents.net/string/"],
     "Error Info": ["https://login.microsoftonline.com/error?code="],
-    "Event Info": ["https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid="]
+    "Event Info": ["https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid="],
+    "IBMXForceExchange": ["https://exchange.xforce.ibmcloud.com/search/"]
 };
 
 
