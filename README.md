@@ -1,7 +1,7 @@
 # SOC Multi-tool
 
 Introducing SOC Multi-tool, a free and open-source browser extension that makes investigations faster and more efficient. Now available on the Chrome Web Store and compatible with all Chromium-based browsers such as Microsoft Edge, Chrome, Brave, and Opera.   
-[Now available on Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?hl=en&authuser=0)
+[Now available on Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?hl=en&authuser=0)  
 [#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)  
 [Featured on "Awesome Incident Response"!](https://github.com/meirwah/awesome-incident-response#all-in-one-tools)  
 
