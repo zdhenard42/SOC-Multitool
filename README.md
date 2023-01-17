@@ -7,6 +7,8 @@ Introducing SOC Multi-tool, a free and open-source browser extension that makes 
 [#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)  
 ["Awesome Incident Response"!](https://github.com/meirwah/awesome-incident-response#all-in-one-tools)  
 ["Bad Sector Blogs"!](https://blog.badsectorlabs.com/last-week-in-security-lwis-2023-01-09.html#tools-and-exploits)  
+["OneStopSOC"!](https://github.com/AlbusNoir/OneStopSOC/blob/182f80da967f5513daea55ac8f516841f269dbdb/README.md#acknowledgements--contributions)  
+
 
 
 
