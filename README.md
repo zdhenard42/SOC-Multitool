@@ -13,7 +13,7 @@ Introducing SOC Multi-tool, a free and open-source browser extension that makes 
 
 
 
-<img src="https://imgur.com/bPMNikH.png" alt="SOC Multi-tool screenshot" width="auto">
+<img src="https://i.imgur.com/tsLs2Ms.gif" alt="SOC Multi-tool in action" width="auto" height="auto">
 
 ## Streamline your investigations
 
@@ -36,10 +36,12 @@ The SOC Multi-tool is a modernized multi-tool built from the ground up, with a r
 - Microsoft Error code Lookup using Microsoft's DB
 - Event ID Lookup (Windows, Sharepoint, SQL Server, Exchange, and Sysmon) using ultimatewindowssecurity.com
 
-<img src="https://i.imgur.com/yMj9p4v.gif" alt="SOC Multi-tool in action" width="auto" height="auto">
 
 ## Easy to install
 
-You can easily install the extension by downloading the release from the [releases page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the extracted folder!
-
+You can easily install the extension by downloading the release from the [Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?hl=en&authuser=0)  
+If you wish to make edits you can download from the [releases page](https://github.com/zdhenard42/SOC-Multitool/releases), extract the folder and make your changes.  
+To load your edited extension turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the extracted folder!  
+<br>
+<br>
 SOC Multi-tool is a community-driven project and the developer encourages users to contribute and share better resources.
