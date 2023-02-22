@@ -3,7 +3,7 @@
 Introducing Ryan's SOC Multi-tool, a browser extension intended to make OSINT investigations a breeze, adapted from [zdhenard42's SOC Multitool](https://github.com/zdhenard42/SOC-Multitool)  
 
 ## Improved Features
-- IP Abuse Checks against VirusTotal, AbuseIPDB, GreyNoise, IBM XFORCE Exchange, Talos Threat Intelligence, Barracuda Central, and FeodoTracker.
+- IP Abuse Checks against VirusTotal, AbuseIPDB, GreyNoise, IBM XFORCE Exchange, Talos Threat Intelligence, Shodan, and FeodoTracker.
 - File Hash Reputation checks against VirusTotal, IBM XFORCE Exchange, and Abuse CH Malware Bazaar
 - Domain reputation checks with AlienVault, VirusTotal, Barracuda Central, and Abuse CH URLHaus.
 - VPN OSINT detection with IPHub, ip2proxy, and TorProject.

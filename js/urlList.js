@@ -1,5 +1,5 @@
 const urls = {
-    "IP Abuse": ["https://www.virustotal.com/gui/search/", "https://www.abuseipdb.com/check/", "https://viz.greynoise.io/ip/", "https://exchange.xforce.ibmcloud.com/ip/", "https://www.talosintelligence.com/reputation_center/lookup?search=", "https://www.barracudacentral.org/lookups/lookup-reputation?lookup_entry=", "https://feodotracker.abuse.ch/browse/host/"],
+    "IP Abuse": ["https://www.virustotal.com/gui/search/", "https://www.abuseipdb.com/check/", "https://viz.greynoise.io/ip/", "https://exchange.xforce.ibmcloud.com/ip/", "https://www.talosintelligence.com/reputation_center/lookup?search=", "https://www.shodan.io/host/", "https://feodotracker.abuse.ch/browse/host/"],
     "IP Info": ["https://www.whois.com/whois/"],
     "Hash Rep": ["https://www.virustotal.com/gui/search/", "https://exchange.xforce.ibmcloud.com/malware/", "https://www.talosintelligence.com/talos_file_reputation?s=", "https://bazaar.abuse.ch/browse.php?search=sha256:"],
     "Domain Rep": ["https://otx.alienvault.com/indicator/domain/", "https://www.virustotal.com/gui/search/", "https://www.barracudacentral.org/lookups/lookup-reputation?lookup_entry=", "https://urlhaus.abuse.ch/browse.php?search="],
