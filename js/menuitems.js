@@ -35,19 +35,13 @@ const menuItems = [
     {
         parentId: "Abuse",
         id: "Hash Rep",
-        title: "Hash Reputation",
+        title: "Hash Reputation (SHA256)",
         contexts: ['selection']
     },
     {
         parentId: "Abuse",
-        id: "Domain Abuse",
+        id: "Domain Rep",
         title: "Domain Reputation",
-        contexts: ['selection']
-    },
-    {
-        parentId: "Info",
-        id: "Domain Info",
-        title: "Domain Info",
         contexts: ['selection']
     },
     {
@@ -108,6 +102,18 @@ const menuItems = [
         parentId: "EventError",
         id: "Event Info",
         title: "Event ID Info",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Abuse",
+        id: "VPN Info",
+        title: "VPN Check",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Abuse",
+        id: "Email Info",
+        title: "Email Check",
         contexts: ['selection']
     }
     ];
