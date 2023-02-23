@@ -22,4 +22,6 @@ Introducing Ryan's SOC Multi-tool, a browser extension intended to make OSINT in
 - CVE Info using cve.mitre.org
 
 ## Installation Instructions
-Download this repo as a ZIP and extract to a location of your choosing. To load the extension, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the extracted folder. 
+Download this repo as a ZIP [from the releases page](https://github.com/ryanoleary26/SOC-Multitool/releases) and extract to a location of your choosing.
+
+To load the extension, turn on developer mode in your browser's extensions settings, click "Load unpacked" and select the extracted folder. 
