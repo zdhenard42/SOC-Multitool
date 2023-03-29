@@ -20,7 +20,19 @@ chrome.contextMenus.onClicked.addListener((contextClick) => {
     if (contextClick.selectionText && contextClick.menuItemId in urls) {
         const urlsForMenuItem = urls[contextClick.menuItemId];
         switch (contextClick.menuItemId) {
-            case "Decbase64":
+            case "CC_Magic":
+                urlsForMenuItem.forEach((url) => {
+                    let encoded = url + btoa(fixedEncodeURI(contextClick.selectionText)).replaceAll('=', '');
+                    chrome.tabs.create({ url: encoded });
+                });
+                break;
+            case "CC_Defang":
+                urlsForMenuItem.forEach((url) => {
+                    let encoded = url + btoa(fixedEncodeURI(contextClick.selectionText)).replaceAll('=', '');
+                    chrome.tabs.create({ url: encoded });
+                });
+                break;
+            case "CC_Resolve_Domain":
                 urlsForMenuItem.forEach((url) => {
                     let encoded = url + btoa(fixedEncodeURI(contextClick.selectionText)).replaceAll('=', '');
                     chrome.tabs.create({ url: encoded });

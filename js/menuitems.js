@@ -2,12 +2,17 @@
 const menuItems = [  
     {
         id: "Abuse",
-        title: "Reputation Check",
+        title: "Reputation",
         contexts: ['selection']
     },  
     {        
         id: "Info",
-        title: "Information Check",
+        title: "Information",
+        contexts: ['selection']
+    },
+    {
+        id: "CyberChef",
+        title: "CyberChef",
         contexts: ['selection']
     },
     {
@@ -29,7 +34,7 @@ const menuItems = [
     {
         parentId: "Info",
         id: "IP Info",
-        title: "IP Info",
+        title: "IP/Domain WHOIS",
         contexts: ['selection']
     },
     {
@@ -45,7 +50,7 @@ const menuItems = [
         contexts: ['selection']
     },
     {
-        parentId: "Info",
+        parentId: "Other",
         id: "Crypto Info",
         title: "Blockchain Address Info",
         contexts: ['selection']
@@ -93,12 +98,6 @@ const menuItems = [
         contexts: ['selection']
     },
     {
-        parentId: "Other",
-        id: "Decbase64",
-        title: "Decode Base64 / HEX",
-        contexts: ['selection']
-    },
-    {
         parentId: "EventError",
         id: "Event Info",
         title: "Event ID Info",
@@ -114,6 +113,25 @@ const menuItems = [
         parentId: "Abuse",
         id: "Email Info",
         title: "Email Check",
+        contexts: ['selection']
+    },
+    {
+        parentId: "CyberChef",
+        id: "CC_Magic",
+        title: "Magic",
+        contexts: ['selection']
+    },
+    {
+        parentId: "CyberChef",
+        id: "CC_Defang",
+        title: "Defang",
+        contexts: ['selection']
+    }
+    ,
+    {
+        parentId: "CyberChef",
+        id: "CC_Resolve_Domain",
+        title: "Resolve Domain",
         contexts: ['selection']
     }
     ];
