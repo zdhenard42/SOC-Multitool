@@ -37,7 +37,6 @@ The SOC Multi-tool is a modernized multi-tool built from the ground up, with a r
 - Parsing of UserAgent using user-agents.net
 - Microsoft Error code Lookup using Microsoft's DB
 - Event ID Lookup (Windows, Sharepoint, SQL Server, Exchange, and Sysmon) using ultimatewindowssecurity.com
-- Email, Domain, IP, Phone #, Blockchain Address, MAC Address, Credit Card#, and SSN # lookup using Intelx.io
 - Blockchain Address Lookup using blockchain.com
 - CVE Info using cve.mitre.org
 
