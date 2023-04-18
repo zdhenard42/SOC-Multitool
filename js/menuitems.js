@@ -124,14 +124,14 @@ const menuItems = [
     {
         parentId: "CyberChef",
         id: "CC_Defang",
-        title: "Defang",
+        title: "Defang Content",
         contexts: ['selection']
     }
     ,
     {
         parentId: "CyberChef",
         id: "CC_Resolve_Domain",
-        title: "Resolve Domain",
+        title: "Resolve Domain(s)",
         contexts: ['selection']
     }
     ];
