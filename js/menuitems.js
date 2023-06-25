@@ -2,12 +2,17 @@
 const menuItems = [  
     {
         id: "Abuse",
-        title: "Reputation Check",
+        title: "Reputation",
         contexts: ['selection']
     },  
     {        
         id: "Info",
-        title: "Information Check",
+        title: "Information",
+        contexts: ['selection']
+    },
+    {
+        id: "CyberChef",
+        title: "CyberChef",
         contexts: ['selection']
     },
     {
@@ -29,29 +34,23 @@ const menuItems = [
     {
         parentId: "Info",
         id: "IP Info",
-        title: "IP Info",
+        title: "IP/Domain WHOIS",
         contexts: ['selection']
     },
     {
         parentId: "Abuse",
         id: "Hash Rep",
-        title: "Hash Reputation",
+        title: "Hash Reputation (SHA256)",
         contexts: ['selection']
     },
     {
         parentId: "Abuse",
-        id: "Domain Abuse",
+        id: "Domain Rep",
         title: "Domain Reputation",
         contexts: ['selection']
     },
     {
-        parentId: "Info",
-        id: "Domain Info",
-        title: "Domain Info",
-        contexts: ['selection']
-    },
-    {
-        parentId: "Info",
+        parentId: "Other",
         id: "Crypto Info",
         title: "Blockchain Address Info",
         contexts: ['selection']
@@ -99,15 +98,40 @@ const menuItems = [
         contexts: ['selection']
     },
     {
-        parentId: "Other",
-        id: "Decbase64",
-        title: "Decode Base64 / HEX",
-        contexts: ['selection']
-    },
-    {
         parentId: "EventError",
         id: "Event Info",
         title: "Event ID Info",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Abuse",
+        id: "VPN Info",
+        title: "VPN Check",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Abuse",
+        id: "Email Info",
+        title: "Email Check",
+        contexts: ['selection']
+    },
+    {
+        parentId: "CyberChef",
+        id: "CC_Magic",
+        title: "Magic",
+        contexts: ['selection']
+    },
+    {
+        parentId: "CyberChef",
+        id: "CC_Defang",
+        title: "Defang Content",
+        contexts: ['selection']
+    }
+    ,
+    {
+        parentId: "CyberChef",
+        id: "CC_Resolve_Domain",
+        title: "Resolve Domain(s)",
         contexts: ['selection']
     }
     ];
