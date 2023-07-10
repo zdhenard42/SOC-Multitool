@@ -1,3 +1,4 @@
+import * from ("./js/browser-polyfill.js");
 import menuItems from './js/menuItems.js';
 import urls from './js/urlList.js';
 

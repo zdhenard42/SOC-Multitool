@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "description": "SOC Multi-tool is a powerful and user-friendly browser extension that streamlines investigations for security professionals.",
     "background": {
-        "service_worker": "eventPage.js",
+        "scripts": ["background.js"],
         "type": "module"
     },
     "icons": {
@@ -14,5 +14,10 @@
     },
     "permissions": [
         "contextMenus"
-    ]
+    ],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "soc-multitool@zdhenard42"
+		}
+	}
 }
