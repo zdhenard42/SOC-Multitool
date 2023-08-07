@@ -26,7 +26,9 @@ SOC Multi-tool eliminates the need for constant copying and pasting during inves
 The SOC Multi-tool is a modernized multi-tool built from the ground up, with a range of features and capabilities. Some of the key features include:
 
 - IP Reputation Lookup using VirusTotal & AbuseIPDB
-- IP Info Lookup using Tor relay checker & WHOIS
+- WHOIS and Domain Lookup using Tor relay checker & WHOIS
+- IP information lookup using [IPinfo.io](https://ipinfo.io)
+- Domain information lookup using [Host.io](https://host.io)
 - Hash Reputation Lookup using VirusTotal
 - Domain Reputation Lookup using VirusTotal & AbuseIPDB
 - Domain Info Lookup using Alienvault
