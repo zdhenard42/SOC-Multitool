@@ -33,8 +33,20 @@ const menuItems = [
     },
     {
         parentId: "Info",
-        id: "IP Info",
+        id: "WHOIS_Domain",
         title: "IP/Domain WHOIS",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Info",
+        id: "IPinfo",
+        title: "IPinfo.io IP Lookup",
+        contexts: ['selection']
+    },
+    {
+        parentId: "Info",
+        id: "Hostio",
+        title: "Host.io Domain Lookup",
         contexts: ['selection']
     },
     {
