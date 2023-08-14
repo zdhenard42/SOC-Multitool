@@ -17,7 +17,8 @@
     ],
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "soc-multitool@zdhenard42"
+			"id": "soc-multitool@zdhenard42",
+			"strict_min_version": "109.0"
 		}
 	}
 }
