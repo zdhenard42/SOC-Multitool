@@ -44,12 +44,6 @@ chrome.contextMenus.onClicked.addListener((contextClick) => {
                     chrome.tabs.create({ url: encoded });
                 });
                 break;
-            case "UA Info":
-                urlsForMenuItem.forEach((url) => {
-                    let encoded = url + contextClick.selectionText.toLowerCase().replace(/\s+/g, '-').replace(/[\/.;(\:)%_,--]+/g, '-');
-                    chrome.tabs.create({ url: encoded });
-                });
-                break;
             default:
                 urlsForMenuItem.forEach((url) => {
                     let encoded = url + fixedEncodeURI(contextClick.selectionText);
