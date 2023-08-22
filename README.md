@@ -1,13 +1,15 @@
 # SOC Multi-tool
 
 Introducing SOC Multi-tool, a free and open-source browser extension that makes investigations faster and more efficient. Now available on the Chrome Web Store and compatible with all Chromium-based browsers such as Microsoft Edge, Chrome, Brave, and Opera.   
-[Now available on Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?hl=en&authuser=0)  
+[Available on Chrome Web Store!](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab?hl=en&authuser=0)  
+[Available on Firefox Add-Ons Store!](https://addons.mozilla.org/en-US/firefox/addon/soc-multi-tool/)  
 
 ## Featured on:
 [#22 On Github Trending!](http://web.archive.org/web/20230111033410/https://github.com/trending/javascript?since=daily)  
 ["Awesome Incident Response"!](https://github.com/meirwah/awesome-incident-response#all-in-one-tools)  
 ["Awesome Threat Detection"!](https://github.com/0x4D31/awesome-threat-detection)  
 ["Bad Sector Blogs"!](https://blog.badsectorlabs.com/last-week-in-security-lwis-2023-01-09.html#tools-and-exploits)  
+["Kali Linux Tutorials"!](https://kalilinuxtutorials.com/soc-multitool/)  
 ["Security Online"](https://securityonline.info/soc-multitool-makes-investigations-faster-and-more-efficient/)  
 ["OneStopSOC"!](https://github.com/AlbusNoir/OneStopSOC/blob/182f80da967f5513daea55ac8f516841f269dbdb/README.md#acknowledgements--contributions)  
 ["Dinosn Twitter"!](https://twitter.com/Dinosn/status/1611600077314985984)  
