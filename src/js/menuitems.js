@@ -98,6 +98,12 @@ const menuItems = [
         contexts: ['selection']
     },
     {
+        parentId: "Other",
+        id: "Winbindex Lookup",
+        title: "Winbindex Lookup",
+        contexts: ['selection']
+    },
+    {
         parentId: "EventError",
         id: "Event Info",
         title: "Event ID Info",

@@ -33,6 +33,7 @@ The SOC Multi-tool is a modernized multi-tool built from the ground up, with a r
 - Domain Reputation Lookup using VirusTotal & AbuseIPDB
 - Domain Info Lookup using Alienvault
 - Living off the land binaries Lookup using the LOLBas project
+- Windows Binary Lookup using the Winbindex project
 - Decoding of Base64 & HEX using CyberChef
 - File Extension & Filename Lookup using fileinfo.com & File.net
 - MAC Address manufacturer Lookup using maclookup.com
