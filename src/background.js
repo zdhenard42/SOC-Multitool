@@ -1,4 +1,4 @@
-import menuItems from './js/menuItems.js';
+import menuItems from './js/menuitems.js';
 import urls from './js/urlList.js';
 
 const fixedEncodeURI = (str) => {
