@@ -16,7 +16,7 @@ const urls = {
     "UA Info": ["https://Henard.tech/ua-parser.html?ua="],
     "Error Info": ["https://login.microsoftonline.com/error?code="],
     "Event Info": ["https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid="],
-    "VPN Info": ["https://iphub.info/?ip=", "https://www.ip2location.com/demo/", "https://db-ip.com/", "https://metrics.torproject.org/rs.html#search/"],
+    "VPN Info": ["https://iphub.info/?ip=", "https://vpndetection.io/", "https://www.ip2location.com/demo/", "https://db-ip.com/", "https://metrics.torproject.org/rs.html#search/"],
     "Email Info": ["https://exchange.xforce.ibmcloud.com/url/", "https://mxtoolbox.com/SuperTool.aspx?run=toolpage&action=blacklist:"]
 };
 
